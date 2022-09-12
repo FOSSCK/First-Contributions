@@ -49,6 +49,7 @@
   - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Kartikay](https://github.com/Kartikay-W-21-22-24)
   - [Kushagra Srivastava](https://github.com/kushagrathisside)
+  - [Karan Kulshrestha](https://github.com/karankulshrestha)
 
 - ### **L**
 
