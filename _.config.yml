@@ -1,14 +1,18 @@
+# List of plugins to use
 plugins:
   - jekyll-relative-links
+
+# Configuration options for the jekyll-relative-links plugin
 relative_links:
   enabled: true
   collections: true
+
+# List of files to include in the build
 include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
   - CODE_OF_CONDUCT.md
+  - COPYING.md
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
+  - LICENSE.md
   - PULL_REQUEST_TEMPLATE.md
+  - README.md
