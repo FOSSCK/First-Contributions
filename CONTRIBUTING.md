@@ -77,6 +77,7 @@
   - [Riya Jhankda](https://github.com/Riya-jhankda)
 
 - ### **S**
+ -  [Sagnik Pramanik](https://github.com/sagnik-p)
   - [Sarang Goel](https://github.com/sarang1032)
   - [Sarthak Dubey](https://github.com/dubey0613)
   - [Shubham Kumar Vishnoi](https://github.com/shubhamvishnoi3288)

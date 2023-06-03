@@ -162,6 +162,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 - ### **R**
 
 - ### **S**
+-  [Sagnik Pramanik](https://github.com/sagnik-p)
 -  [Shivam Kumar](https://github.com/Bharadwajshivam28)
 
 - ### **T**
