@@ -86,6 +86,7 @@
   - [sachin lal](https://github.com/sachinlal7)
   - [Siddhesh Agarwal](https://github.com/Siddhesh-Agarwal)
   - [Sushant Singh Negi](https://github.com/NegiSushant)
+  - [ Shalu singh](https://github.com/shaluchan)
 
 
 - ### **T**
